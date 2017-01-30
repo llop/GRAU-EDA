@@ -18,3 +18,5 @@ Programas:
 * Huffman coding
 * Prim (Minimum Spanning Tree)
 
+Ganador del juego de EDA **Bola de Drac**: [https://github.com/llop/joc-eda-bola-de-drac](https://github.com/llop/joc-eda-bola-de-drac)
+
